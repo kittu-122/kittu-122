@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirti Rane</h1>
-<h3 align="center">Diving Deep into the World of AI & DS: Unleashing the Power of GenAI and LLM Embracing Challenges, Igniting Innovation: A Final Year AI&DS Student's Journey</h3>
+<h3 align="center">I'm a final year Artificial Intelligence & Data Science student, I have a strong passion for learning and am currently diving into the fascinating world of Generative AI and Lifelong Machine Learning (LLM). I thoroughly enjoy the process of brainstorming and finding solutions to new challenges, always striving to enhance my skills and knowledge.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kittu-122&label=Profile%20views&color=0e75b6&style=flat" alt="kittu-122" /> </p>
 
 - 🔭 I’m currently working on **Deep Learning**
 
@@ -25,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kittu-122&show_icons=true&locale=en" alt="kittu-122" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kittu-122&" alt="kittu-122" /></p>
-
