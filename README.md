@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kirti Rane</h1>
-<h3 align="center">I'm a final year Artificial Intelligence & Data Science student, I have a strong passion for learning and am currently diving into the fascinating world of Generative AI and Lifelong Machine Learning (LLM). I thoroughly enjoy the process of brainstorming and finding solutions to new challenges, always striving to enhance my skills and knowledge.</h3>
+<h3 align="center">I'm a final year Artificial Intelligence & Data Science student, I have a strong passion for learning and am currently diving into the fascinating world of Generative AI and Large Language Model (LLM). I thoroughly enjoy the process of brainstorming and finding solutions to new challenges, always striving to enhance my skills and knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kittu-122&label=Profile%20views&color=0e75b6&style=flat" alt="kittu-122" /> </p>
 
 - 🔭 I’m currently working on **Deep Learning**
 
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently learning **GenerativeAI & LLM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kittu-122](https://github.com/kittu-122)
 
